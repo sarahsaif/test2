@@ -2,15 +2,15 @@
  "name": "flare",
  "children": [
   {
-   "name": "analytics",
+   "name": "Topic",
    "children": [
     {
-     "name": "cluster",
+     "name": "Subtopic",
      "children": [
-      {"name": "AgglomerativeCluster", "size": 3938},
-      {"name": "CommunityStructure", "size": 3812},
-      {"name": "HierarchicalCluster", "size": 6714},
-      {"name": "MergeEdge", "size": 743}
+      {"name": "word1", "size": 3938},
+      {"name": "word2", "size": 3812},
+      {"name": "word3", "size": 6714},
+      {"name": "word4", "size": 743}
      ]
     },
     {
